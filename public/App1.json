@@ -1,0 +1,184 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 1,
+    "description": "Connect with friends and the world around you on Facebook.",
+    "size": 174,
+    "reviews": 174000000,
+    "ratingAvg": 4.6,
+    "downloads": 20,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 10000000 },
+      { "name": "3 star", "count": 20000000 },
+      { "name": "4 star", "count": 40000000 },
+      { "name": "5 star", "count": 50000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "description": "Simple, secure, and reliable messaging app with free calls.",
+    "size": 50,
+    "reviews": 100000000,
+    "ratingAvg": 4.4,
+    "downloads": 21,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 16000000 },
+      { "name": "5 star", "count": 32000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 3,
+    "description": "A photo and video-sharing social networking service.",
+    "size": 50,
+    "reviews": 100000000,
+    "ratingAvg": 4.5,
+    "downloads": 22,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 4,
+    "description": "Watch, like, share, comment and upload your own videos.",
+    "size": 50,
+    "reviews": 100000000,
+    "ratingAvg": 4.6,
+    "downloads": 23,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 6000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 24000000 },
+      { "name": "5 star", "count": 48000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg",
+    "title": "Twitter",
+    "companyName": "Twitter, Inc.",
+    "id": 5,
+    "description": "Post and interact with messages known as 'tweets'.",
+    "size": 50,
+    "reviews": 50000000,
+    "ratingAvg": 4.3,
+    "downloads": 24,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/vector-tiktok-social-media-logo_1093524-451.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 6,
+    "description": "Create and share short lip-sync, comedy, and talent videos.",
+    "size": 50,
+    "reviews": 100000000,
+    "ratingAvg": 4.7,
+    "downloads": 25,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADRElEQVR4AbRWQ3RkURS8Yzv2NjY3cbIbs5N17OyyGtu2bdv2THfGthG7U9M1dt4P6pzbuL/qvvrP8jNQLo6olpGmMKBGKkyBRooKGEXP2mxDfgcgzUwknSneUNCkYZTXbIttCkEwofDGjRlsS/ej29XevPF7gsMBo4zUKq4qF9y5JThyiCG4e4s57SY4J2jAoCqoLBMsXSzw9hJ07NgcDg4ODP5mDsuWkKOpF/Qc/0oVcnGBIF4nsLOzwcSJE3Hv3j0UFxeDwd/M2dpaIz6OXPW5ICpEY5UgPU3g5uYKNvYv3L17F66uLsjOpEbNhJIB/WVBjx7tcfHiRdSF8+fPo3v39sjXN6KBkcMFMTExMBqNqAvkREVFYcyoRjTQu5cgPT0dqkhNTcXgQY1kgGMZHiaYNm0aVDFu3DhEhAtqqxtggMtpxHBBSLDArIdgwoQJUMWwYcOooZbDx1raDaxfxyVni1GjRkGn02HMmDFQxejRoxEXFwdqbWyssGVTPQwsmCfw9PREYWEhamtrUVVVBVWQSw217u7uWLywHgZevxT4+QmCgoJw4cIFsKAqyOVyDAgIQGCA4O2rek7C928EyUmCLl064/Lly1AFuR07tkdaCms0cBXs2SkwM+uOFy9eQBXPnz+HWY9u2Lu7gcvw2WOBq2sz5OXlaR4CatzcmuH5k3oY4Po9f0bg5SkYMGAASkpKoBXU9O/fH15egvNnWVPRQMF7QVKioHv3tuDux9OuvqA2LS3NVKsNa7J23QZ4pltaWuLUqVMqe7/S2cBarLl6pYIBnnzW1i3Rt29frFmzBgUFBagvqF29ejX69OkDG5uWMFxVMMCxum4QZKSxJwQpKSmorq7W1BvkUpOcnMwayEhnTdbWsApI3rRBeLZzM0J0dDRyc3Oh1+v/uiKY4zNyyKWG2s0b/38o/fdKxpPwwjnBqhWCmdN5LNNQB2RnZ+PGjRvfr2T8zRyfkTPDxF25nFrWqOtKVi35qpdIFjtxTBAbI+jSuTmcnJwY6NKlOXM4cZQcTbdiAw2M+pFUN/Lw3o9rOX9ravjTkJrlA9YxAdkJsnugu2b075xC7EB0TrF1z1uhCfMnFS39Ce6B/cXsngMAoMbZs/GdcckAAAAASUVORK5CYII=",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 7,
+    "description": "Send short-lived messages and fun multimedia snaps.",
+    "size": 50,
+    "reviews": 50000000,
+    "ratingAvg": 4.2,
+    "downloads": 26,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+    "title": "Telegram",
+    "companyName": "Telegram Messenger LLP",
+    "id": 8,
+    "description": "Cloud-based instant messaging and video calling service.",
+    "size": 50,
+    "reviews": 50000000,
+    "ratingAvg": 4.5,
+    "downloads": 27,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 9,
+    "description": "Access millions of songs and podcasts.",
+    "size": 50,
+    "reviews": 100000000,
+    "ratingAvg": 4.7,
+    "downloads": 28,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 10,
+    "description": "Stream TV shows, movies, anime, and documentaries.",
+    "size": 50,
+    "reviews": 100000000,
+    "ratingAvg": 4.6,
+    "downloads": 29,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  }
+
+  
+]
