@@ -41,18 +41,43 @@ const Header = () => {
           <span className="text-xl font-bold text-blue-600">HERO.IO</span>
         </div>
 
-     
         <nav className="hidden md:flex justify-between space-x-6">{Links}</nav>
-
         <button
           onClick={openGitHub}
-          className="flex items-center gap-2 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white px-3 sm:px-4 py-1.5 sm:py-2 rounded-md text-sm sm:text-base hover:opacity-90 transition-opacity duration-200"
+          className="
+    flex 
+    items-center 
+    justify-center 
+    gap-2 
+    bg-gradient-to-r 
+    from-blue-500 
+    via-purple-500 
+    to-pink-500 
+    text-white 
+    px-3 
+    sm:px-5 
+    md:px-6 
+    py-1.5 
+    sm:py-2 
+    md:py-2.5 
+    rounded-md 
+    text-xs 
+    sm:text-sm 
+    md:text-base 
+    font-medium 
+    hover:opacity-90 
+    transition-all 
+    duration-200 
+    w-22 
+    sm:w-32 
+    md:w-40
+  "
         >
-          <FaGithub size={18} />
+          <span > <FaGithub className=" " /></span>
+         
           <span>Contribute</span>
         </button>
 
-     
         <button
           className="md:hidden flex items-center text-gray-700 ml-2"
           onClick={toggleMenu}
@@ -81,7 +106,6 @@ const Header = () => {
         </button>
       </div>
 
-     
       {isOpen && (
         <div className="md:hidden bg-white shadow-md border-t border-gray-100">
           <nav className="flex flex-col items-center space-y-4 py-4">
