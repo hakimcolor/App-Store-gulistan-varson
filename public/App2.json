@@ -1,0 +1,1927 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 1,
+    "description": "Connect with friends and the world around you on Facebook.",
+    "size": 174,
+    "reviews": 174000000,
+    "ratingAvg": 4.6,
+    "downloads": 20,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 10000000 },
+      { "name": "3 star", "count": 20000000 },
+      { "name": "4 star", "count": 40000000 },
+      { "name": "5 star", "count": 50000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "description": "Simple, secure, and reliable messaging app with free calls.",
+    "size": 50,
+    "reviews": 100000000,
+    "ratingAvg": 4.4,
+    "downloads": 21,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 16000000 },
+      { "name": "5 star", "count": 32000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 3,
+    "description": "A photo and video-sharing social networking service.",
+    "size": 50,
+    "reviews": 100000000,
+    "ratingAvg": 4.5,
+    "downloads": 22,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 4,
+    "description": "Watch, like, share, comment and upload your own videos.",
+    "size": 50,
+    "reviews": 100000000,
+    "ratingAvg": 4.6,
+    "downloads": 23,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 6000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 24000000 },
+      { "name": "5 star", "count": 48000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg",
+    "title": "Twitter",
+    "companyName": "Twitter, Inc.",
+    "id": 5,
+    "description": "Post and interact with messages known as 'tweets'.",
+    "size": 50,
+    "reviews": 50000000,
+    "ratingAvg": 4.3,
+    "downloads": 24,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/vector-tiktok-social-media-logo_1093524-451.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 6,
+    "description": "Create and share short lip-sync, comedy, and talent videos.",
+    "size": 50,
+    "reviews": 100000000,
+    "ratingAvg": 4.7,
+    "downloads": 25,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo=s64-rw",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 7,
+    "description": "Send short-lived messages and fun multimedia snaps.",
+    "size": 50,
+    "reviews": 50000000,
+    "ratingAvg": 4.2,
+    "downloads": 26,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+    "title": "Telegram",
+    "companyName": "Telegram Messenger LLP",
+    "id": 8,
+    "description": "Cloud-based instant messaging and video calling service.",
+    "size": 50,
+    "reviews": 50000000,
+    "ratingAvg": 4.5,
+    "downloads": 27,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 9,
+    "description": "Access millions of songs and podcasts.",
+    "size": 50,
+    "reviews": 100000000,
+    "ratingAvg": 4.7,
+    "downloads": 28,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 10,
+    "description": "Stream TV shows, movies, anime, and documentaries.",
+    "size": 50,
+    "reviews": 100000000,
+    "ratingAvg": 4.6,
+    "downloads": 29,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/lmG9HlI0awHie0cyBieWXeNjpyXvHPwDBb8MNOVIyp0P8VEh95AiBHtUZSDVR3HLe3A=s64-rw",
+    "title": "ChatGPT",
+    "companyName": "OpenAI",
+    "id": 11,
+    "description": "AI-powered conversational assistant for various tasks.",
+    "size": 45,
+    "reviews": 80000000,
+    "ratingAvg": 4.8,
+    "downloads": 30,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 71000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/NafAciugdQk6L7_D0cmNq8cypX0pvA88h9DzlxIJQbPd3caZM3_S5-nZedHdnrcq_wCm=s64-rw",
+    "title": "CapCut",
+    "companyName": "ByteDance",
+    "id": 12,
+    "description": "Video editing app with advanced features.",
+    "size": 60,
+    "reviews": 70000000,
+    "ratingAvg": 4.6,
+    "downloads": 31,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 54000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Bd2SosCzKOwsqG-FdCSt-V13QllWRaQrJPjIfzlRZupNihegpsd6-dDyC8dI8gDwOQ=s64-rw",
+    "title": "Threads",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 13,
+    "description": "Text-based social networking app by Instagram.",
+    "size": 40,
+    "reviews": 50000000,
+    "ratingAvg": 4.5,
+    "downloads": 32,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 39000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/NN8G4Xc03GSv2_Tu-icuoeOwSo1xoZ4ouzUl24fVlwm5OeIAo7gV0zS1dVRWgCay-BU=s64-rw",
+    "title": "Google",
+    "companyName": "Google LLC",
+    "id": 14,
+    "description": "Web search engine and various services.",
+    "size": 55,
+    "reviews": 60000000,
+    "ratingAvg": 4.7,
+    "downloads": 33,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 43000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/JfQNUnohpuq5IP65WN9C109VjLjDEj2tZYlPtComLznQfGeeoesubOaHGBcpZdXKuHU=s64-rw",
+    "title": "Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 15,
+    "description": "Messaging app for Facebook users.",
+    "size": 45,
+    "reviews": 55000000,
+    "ratingAvg": 4.6,
+    "downloads": 34,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 42000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/wKJ5hN5CmSBWXPBVYYuRENzcEVb7FB6NyibjKqPT4SB0eoZ7Fww2jq-OhUDCxEPGALrSekQaazrHLSBwVb6T4A=w240-h480-rw",
+    "title": "HBO Max",
+    "companyName": "WarnerMedia",
+    "id": 16,
+    "description": "Streaming service offering a wide range of content.",
+    "size": 70,
+    "reviews": 45000000,
+    "ratingAvg": 4.6,
+    "downloads": 36,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1600000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 35000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "title": "Amazon",
+    "companyName": "Amazon.com, Inc.",
+    "id": 17,
+    "description": "Online shopping platform with various products.",
+    "size": 65,
+    "reviews": 60000000,
+    "ratingAvg": 4.7,
+    "downloads": 37,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1600000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 50000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/yZsmiNjmji3ZoOuLthoVvptLB9cZ0vCmitcky4OUXNcEFV3IEQkrBD2uu5kuWRF5_ERA=s64-rw",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 18,
+    "description": "Video conferencing and communication platform.",
+    "size": 60,
+    "reviews": 55000000,
+    "ratingAvg": 4.6,
+    "downloads": 38,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 43000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/9jcxRm8DMqox-b1VwJclSwgZrDBiqSKiy_POHGmx6xSkiwvxrljh0U_2ZRtrUDOZaHo=s64-rw",
+    "title": "TikTok Lite",
+    "companyName": "ByteDance",
+    "id": 19,
+    "description": "Lightweight version of the TikTok app.",
+    "size": 25,
+    "reviews": 35000000,
+    "ratingAvg": 4.5,
+    "downloads": 39,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 27000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Dtdhq8zdQM4V_1tXjXGIsxvNm8daoJ2Dwq7H3sKP_dt7M7kuByhQu2MM6-KlQgrMOEvV6__w5ZWa9nShtqqtLA=s64-rw",
+    "title": "Adobe Photoshop",
+    "companyName": "Adobe Inc.",
+    "id": 20,
+    "description": "Professional photo editing and graphic design software.",
+    "size": 150,
+    "reviews": 40000000,
+    "ratingAvg": 4.8,
+    "downloads": 40,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 30500000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Ozmaqzz_vAlsyvGO-Sv6MYhZGzh_uWqXcNg3GXV6Qsvlz-sEAyO6RATTWhgvcGO7jgu1cQV7H5RWVsgZvbqX=s64-rw",
+    "title": "Free Fire",
+    "companyName": "Garena International I",
+    "id": 21,
+    "description": "Free Fire is a free-to-play battle royale game developed by 111dots Studio and published by Garena for Android and iOS. Released on December 8, 2017, it became the most downloaded mobile game globally in 2019 and continues to be popular worldwide.",
+    "size": 350,
+    "downloads": 100,
+    "ratingAvg": 4.5,
+    "reviews": 40000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 30500000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/t-juVwXA8lDAk8uQ2L6d6K83jpgQoqmK1icB_l9yvhIAQ2QT_1XbRwg5IpY08906qEw=s256-rw",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 22,
+    "description": "Google Drive lets you securely store, intelligently organize, and collaborate on files and folders from anywhere, on any device.",
+    "size": 150,
+    "reviews": 10600000,
+    "ratingAvg": 4.3,
+    "downloads": 106,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 30500000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/f26tJjgN_vLsYMcWptUt7zTaSihc9Dmu_-u6QfkHw_ie7UiZxjPYoC5wa3QNr13yrw=s256-rw",
+    "title": "Paralley",
+    "companyName": "Paralley Inc.",
+    "id": 23,
+    "description": "Paralley is an immersive app designed for learning, collaboration, and interactive experiences in a seamless digital environment.",
+    "size": 150,
+    "reviews": 5000000,
+    "ratingAvg": 4.5,
+    "downloads": 200,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 3350000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/CrvYCc9Pp3F68gU-_GXp1g-8sQovtptcQjskvAa8Ub5vYMMsvo9Z6hzZmrsVsU64fVgF=s256-rw",
+    "title": "Brilliante Connect",
+    "companyName": "Brilliante Inc.",
+    "id": 24,
+    "description": "Brilliante Connect is a powerful app for connecting professionals, sharing ideas, and fostering collaboration in an intuitive platform.",
+    "size": 150,
+    "reviews": 3000000,
+    "ratingAvg": 4.6,
+    "downloads": 160,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 1850000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/ZWNotaoX-mSQvZ6rl64w49EJdw8N-sIm16RSdWg3rQJbItcUmDB74tOLyj8R849gcF4=s256-rw",
+    "title": "imoHD Video Calls and Chats",
+    "companyName": "imo.im",
+    "id": 25,
+    "description": "A popular app for high-quality video calls and chats with friends and family.",
+    "size": 160,
+    "reviews": 4500000,
+    "ratingAvg": 4.5,
+    "downloads": 403,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 2850000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/OerOVyjX_2F9R7zk2muPhS4LvL9cq78qO0FsEojYa_s4cVYD8yMEpZljufzDrHtz9so=s256-rw",
+    "title": "Eyecon Caller ID & Spam Block",
+    "companyName": "Eyecon",
+    "id": 26,
+    "description": "Identify callers and block spam calls with ease using Eyecon Caller ID.",
+    "size": 180,
+    "reviews": 6000000,
+    "ratingAvg": 4.4,
+    "downloads": 520,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 4200000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/DiPoGrJi14LdAa1BaP3i4etPicL8SoImysW3cUAOgntIY8ch7tDTkyf-Utxfh9x3uv4=s256-rw",
+    "title": "Virtual Master - Android Clone",
+    "companyName": "Virtual Master",
+    "id": 27,
+    "description": "Clone Android apps and manage multiple accounts simultaneously with Virtual Master.",
+    "size": 140,
+    "reviews": 200000,
+    "ratingAvg": 4.2,
+    "downloads": 162,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 115000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/VYvJqGnrQiKkbbyLyMeiL-GM3go4tBIA64uVEGQazLXD4p_M3F45kHyt42o_6d5VXA=s256-rw",
+    "title": "Microsoft Edge AI Browser",
+    "companyName": "Microsoft",
+    "id": 28,
+    "description": "Browse the web faster and smarter with Microsoft Edge AI Browser.",
+    "size": 200,
+    "reviews": 500000,
+    "ratingAvg": 4.6,
+    "downloads": 182,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 335000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/KVK7u_AKusImrcj3i0HanLxIbCzrpIEm7BgmB1TXwZHe2SXAUGHOe6bLISO-x5xR0E0=s256-rw",
+    "title": "Shizuku",
+    "companyName": "Shizuku Inc.",
+    "id": 29,
+    "description": "A lightweight app for managing tasks and automation on Android.",
+    "size": 90,
+    "reviews": 12000,
+    "ratingAvg": 4.1,
+    "downloads": 45,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 4500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/X15cdMe6AuuAIpdM0BIj_TEEkOGNs6S4nCdrCjlR992rcessJ0AXaQtjxbtqgb-zEIU=s256-rw",
+    "title": "Yoho Group Voice Chat Room",
+    "companyName": "Yoho",
+    "id": 30,
+    "description": "Join group voice chats and meet new friends on Yoho.",
+    "size": 80,
+    "reviews": 5000,
+    "ratingAvg": 4.0,
+    "downloads": 73,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 1200 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/f26tJjgN_vLsYMcWptUt7zTaSihc9Dmu_-u6QfkHw_ie7UiZxjPYoC5wa3QNr13yrw=s256-rw",
+    "title": "HiCat Game and Chat Friends",
+    "companyName": "HiCat",
+    "id": 31,
+    "description": "Play fun games and chat with friends in the HiCat community.",
+    "size": 110,
+    "reviews": 3500,
+    "ratingAvg": 4.2,
+    "downloads": 29,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/FfSPWls6sAE_Os8A8F2uVeYDx0oJD-pMro47vUweA8r-R8o8wIfvlFTMHpK5yi-VnD-36fHzmO8MDR3LJbB-Aw=s256-rw",
+    "title": "Famy",
+    "companyName": "Famy Inc.",
+    "id": 32,
+    "description": "Connect with family and friends through chat and social features.",
+    "size": 100,
+    "reviews": 15000,
+    "ratingAvg": 4.3,
+    "downloads": 123,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 8500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/U3wX7I2oiGS5sW25B5B5iduCWPZCZF7E9GCXJ_PDfCAMd0ZRkpxPoMIbV8GjhUQPGw=s256-rw",
+    "title": "MigoLive - Voice and Video Chat",
+    "companyName": "MigoLive Inc.",
+    "id": 33,
+    "description": "Join live voice and video chats with people around the world.",
+    "size": 120,
+    "reviews": 10000,
+    "ratingAvg": 4.2,
+    "downloads": 78,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/8WqbhNwMfz07KUi5_KdIWjvKnZP4NgzOAQ0alRIYMBMxQ1sMazLm-2of4SMpE-tB47g2=s256-rw",
+    "title": "Likee - Short Video Community",
+    "companyName": "Likee Inc.",
+    "id": 34,
+    "description": "Create, share, and discover short videos with the global community.",
+    "size": 90,
+    "reviews": 8000,
+    "ratingAvg": 4.1,
+    "downloads": 53,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3200 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/poGqp5ZwUKlOqS3ylgi8XxWxVwcRtBhZ8LImpwcqFce-yAZ8GueuYDW6AYCIUQXzkA=s256-rw",
+    "title": "Ridmi Keyboard",
+    "companyName": "Ridmi Inc.",
+    "id": 35,
+    "description": "A smart keyboard app with predictive text and themes.",
+    "size": 80,
+    "reviews": 6000,
+    "ratingAvg": 4.2,
+    "downloads": 59,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/iv0BCAV8aZnmzT7GMB0H1rcrCbz-9wvmPn93_h6Ta6JLA2E9W0QLOjcjTv0BX_ufoA=s256-rw",
+    "title": "45 Wallpaper HD 3D Live",
+    "companyName": "Wallpaper Inc.",
+    "id": 36,
+    "description": "High-quality 3D and live wallpapers for your device.",
+    "size": 70,
+    "reviews": 9000,
+    "ratingAvg": 4.4,
+    "downloads": 86,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/8D_LmhOzBgeeNZbXhgQmtEQtWiIKm6Y-J5zzlJKrQa-m9G6uhnTC22p_EECLTeHHYt4=s256-rw",
+    "title": "Bongo Movies, Series and Shows",
+    "companyName": "Bongo",
+    "id": 37,
+    "description": "Watch popular movies, series, and shows online with Bongo.",
+    "size": 150,
+    "reviews": 7000,
+    "ratingAvg": 4.3,
+    "downloads": 64,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 1600 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/8zaj9lmPpL1MbiTbQ1KuW2WEaweDbM2WIRoAe1LFEFcStPfUitiEK3pKNIDCz2n9WYc=s256-rw",
+    "title": "Soccer Ronaldo Wallpaper CR7",
+    "companyName": "Wallpaper Inc.",
+    "id": 39,
+    "description": "High-quality wallpapers of Cristiano Ronaldo for fans.",
+    "size": 50,
+    "reviews": 5000,
+    "ratingAvg": 4.4,
+    "downloads": 120,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 3600 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Dd8sfwjvcuQRScHz2zYIQosPsmQ7wEgeKs7yUyU3ooTa2bX7I262LStAguiYtBvJxg=s256-rw",
+    "title": "Edge Lighting BorderLight",
+    "companyName": "Edge Apps Inc.",
+    "id": 40,
+    "description": "Add stunning edge lighting effects to your device screen.",
+    "size": 60,
+    "reviews": 4000,
+    "ratingAvg": 4.3,
+    "downloads": 180,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 1800 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/pfRHi9Pm2YQhWJKaIwngM42YZcLBquV-mSbvzqBfZM1n60_Bk70597IP5IPfg5Nxbp8=s256-rw",
+    "title": "My Photo Keyboard",
+    "companyName": "Keyboard Inc.",
+    "id": 41,
+    "description": "Personalize your keyboard with your own photos.",
+    "size": 55,
+    "reviews": 3000,
+    "ratingAvg": 4.2,
+    "downloads": 95,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1300 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/0hCusDibw5uEmjzyAIECDmRel56xU5B3OuoCmgb5avwY-N1pIXU7MVoeTTPbys4pAwk=s256-rw",
+    "title": "FooView - FV Float Viewer",
+    "companyName": "FooView Inc.",
+    "id": 42,
+    "description": "Floating viewer app to preview files quickly.",
+    "size": 65,
+    "reviews": 4200,
+    "ratingAvg": 4.3,
+    "downloads": 160,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 1900 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/_tnKQPV1fg-Bo9SWnXP6iCE-IwCEYkZQGbpxgR13EHay9PPEnJ1xWOj7ICr51bbYdqBNVRyyE_a48pT88cTX=s256-rw",
+    "title": "Aesthetic Background",
+    "companyName": "Wallpaper Inc.",
+    "id": 43,
+    "description": "Beautiful aesthetic wallpapers for home and lock screens.",
+    "size": 70,
+    "reviews": 3500,
+    "ratingAvg": 4.2,
+    "downloads": 75,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1700 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/C0XLDZhMi0UL5QwjcOFBvhXZDU1QXzOhFFjccHLlgtwo4AN2UFM-ByPeFa30EHuN0g=s256-rw",
+    "title": "Mico Widget Live Wallpaper",
+    "companyName": "Mico Inc.",
+    "id": 44,
+    "description": "Interactive live wallpapers with widget support.",
+    "size": 80,
+    "reviews": 3000,
+    "ratingAvg": 4.1,
+    "downloads": 200,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/4R0TIP0_azJx0FXp6_Jxqd46_gZoVnaMIdOMdpa8OM1lsi6TQu56c-kkX0lY3uzu5w=s256-rw",
+    "title": "Via Browser Fast Light",
+    "companyName": "Via Browser Inc.",
+    "id": 45,
+    "description": "Fast and lightweight browser for smooth web experience.",
+    "size": 90,
+    "reviews": 2800,
+    "ratingAvg": 4.0,
+    "downloads": 320,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1080 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/D1POO3HtYVgSW65yv3JLMrr8F7L9RcYUfEw_ug3BhMhMgN0b2fZ414cYkmSwVRr737aY=s256-rw",
+    "title": "ZArchiver",
+    "companyName": "ZArchiver Inc.",
+    "id": 46,
+    "description": "Powerful file manager and archiver for Android.",
+    "size": 100,
+    "reviews": 5000,
+    "ratingAvg": 4.4,
+    "downloads": 450,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 1100 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/AEHuSGL34_6YH2mjCbHHD-BQtdzVxMo95UegQHlgIzcsPXwXDPbKHs5vYrLjninjm-8C=s256-rw",
+    "title": "Screen Recorder - XRecorder",
+    "companyName": "InShot Inc.",
+    "id": 47,
+    "description": "Record your screen smoothly with high quality.",
+    "size": 55,
+    "reviews": 8000,
+    "ratingAvg": 4.5,
+    "downloads": 410,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 5300 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/CSKh8N3G5NGaG9XiJfxYuA6oLTx9R_9H1CifQqRDmkIVFWXlUMyCQvBaF8k0PtioLOam=s256-rw",
+    "title": "Chrome Beta",
+    "companyName": "Google LLC",
+    "id": 48,
+    "description": "Try the latest Chrome features before they are released.",
+    "size": 70,
+    "reviews": 9500,
+    "ratingAvg": 4.4,
+    "downloads": 520,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/VaKjVtEoXm0ErtmaHwH5Ni-EpaBoJcTmoY_Bs5JeIOVOQx8z_jBWMaxB6QdYPxX-OA7l=s256-rw",
+    "title": "SHAREit",
+    "companyName": "SHAREit Technologies",
+    "id": 49,
+    "description": "Fastest file sharing app for all your devices.",
+    "size": 65,
+    "reviews": 12000,
+    "ratingAvg": 4.3,
+    "downloads": 480,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 8500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/xCHTzzVqkTPQr0hnnAWWIw2yJRG7tz4dEv_rttJiU1m43doSd6sDQYWV8MBhginGeHaW=s256-rw",
+    "title": "Mobizen Screen Recorder",
+    "companyName": "Mobizen",
+    "id": 50,
+    "description": "Screen recorder with facecam and editing tools.",
+    "size": 60,
+    "reviews": 8000,
+    "ratingAvg": 4.4,
+    "downloads": 350,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 5300 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Aq52jSPTUq1DVFkKF4Lz_mL9QVXTe7K3R3xpUyAMzo124wbaLylC27Sb9H7jbr0nSq8=s256-rw",
+    "title": "Potato VPN",
+    "companyName": "Potato VPN Inc.",
+    "id": 51,
+    "description": "Secure and fast VPN service to protect your privacy.",
+    "size": 50,
+    "reviews": 6000,
+    "ratingAvg": 4.3,
+    "downloads": 250,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 4450 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/CMan4mngVYorxpSDVdLsDUw0zvn3Ft7EI7NEbVM_wF40iOCFWhutydQJcZLeezlb-ZaV=s256-rw",
+    "title": "XBrowser Mini",
+    "companyName": "XBrowser Inc.",
+    "id": 52,
+    "description": "Fast and lightweight mini web browser.",
+    "size": 40,
+    "reviews": 4000,
+    "ratingAvg": 4.2,
+    "downloads": 170,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 2750 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/39xbI_gFcmGEIl6JEAGhJQKv8GBjR_RFyJ6qhrFfA9CUOKZU2clSs7uo81e30zPGtg=s256-rw",
+    "title": "1.1.1.1 + WARP",
+    "companyName": "Cloudflare",
+    "id": 53,
+    "description": "Secure internet with fast DNS and WARP VPN.",
+    "size": 55,
+    "reviews": 5000,
+    "ratingAvg": 4.5,
+    "downloads": 430,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/dk1cVnOsb_ZxqcEFuj7rwS1UDP40mol9oRnWfMAjW8ywv4adXVDOrVr6Ix7kTVpkWg=s256-rw",
+    "title": "Bangla English Translator",
+    "companyName": "Translate Inc.",
+    "id": 54,
+    "description": "Translate Bangla to English and vice versa easily.",
+    "size": 60,
+    "reviews": 4000,
+    "ratingAvg": 4.3,
+    "downloads": 220,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1450 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/PBhfqKIZnPvM0sm4VKjFIh6HhNXp8WFPHa4bAWQrnSraIdYYGhIkAB00vvg8CuR_riam=s256-rw",
+    "title": "Clone App - Parallel Dual Space",
+    "companyName": "Parallel Inc.",
+    "id": 55,
+    "description": "Run multiple accounts of the same app on one device.",
+    "size": 70,
+    "reviews": 4500,
+    "ratingAvg": 4.4,
+    "downloads": 300,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 2550 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/AwrQb4bJk-34pw_ye7VhjDN0Azraz_pYYq9s5FbcapiF7qfxbYYvqWl-TjIF9xJIeA=s64-rw",
+    "title": "Ludo King",
+    "companyName": "Gametion Technologies",
+    "id": 56,
+    "description": "Classic Ludo game to play with friends and family.",
+    "size": 60,
+    "reviews": 120000,
+    "ratingAvg": 4.4,
+    "downloads": 720,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 67000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/_3HpCRk6_njK_LIknzcmgILuo6PGD-sH-fGs6UZFM3MrBzYULVr3M0cpfWahEH34Zmw=s64-rw",
+    "title": "Worms Zone .io - Hungry Snake",
+    "companyName": "Casual Azur Games",
+    "id": 57,
+    "description": "Control your worm and eat to grow bigger!",
+    "size": 55,
+    "reviews": 85000,
+    "ratingAvg": 4.3,
+    "downloads": 580,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs=s64-rw",
+    "title": "Hill Climb Racing",
+    "companyName": "Fingersoft",
+    "id": 58,
+    "description": "Fun physics-based driving game with challenging hills.",
+    "size": 65,
+    "reviews": 95000,
+    "ratingAvg": 4.5,
+    "downloads": 620,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 46000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/p7_G7W7KQO_UO09jAekkwaw4yqEmOQvY6QExD63pPMiK_DVeEPDLacZdXsnvgvXeSuCe=s64-rw",
+    "title": "Yalla Ludo",
+    "companyName": "Yalla Games",
+    "id": 59,
+    "description": "Play Ludo online with friends in real-time.",
+    "size": 50,
+    "reviews": 40000,
+    "ratingAvg": 4.4,
+    "downloads": 410,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 23500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/giNxoRwkzKegKu9G_G40tT0gkuWfsV2nIxDZ344qT-dd_BMPIYRIFYiygP0pYnqfrDep=s64-rw",
+    "title": "Cricket League Multiplayer",
+    "companyName": "Moonfrog",
+    "id": 60,
+    "description": "Play cricket matches online with players worldwide.",
+    "size": 70,
+    "reviews": 35000,
+    "ratingAvg": 4.3,
+    "downloads": 470,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 16800 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/0DXfvnqHdMDvWYgO3QyA46UiC9lgICI9kt319U6u35Qt1Lt8g9-X1OBRnmC3vvr8dA=s64-rw",
+    "title": "Carrom Pool - Board Game",
+    "companyName": "Miniclip",
+    "id": 61,
+    "description": "Play carrom with friends online or offline.",
+    "size": 55,
+    "reviews": 45000,
+    "ratingAvg": 4.4,
+    "downloads": 540,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 14000 },
+      { "name": "5 star", "count": 23000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/hZsC5eP05OC3HeGuOVivBgsCTQZIqkm-6rViFTNuimz_wtxOtZIEM0zLodtkw1QZLg=s64-rw",
+    "title": "Subway Princess Runner",
+    "companyName": "Tap2Play",
+    "id": 62,
+    "description": "Endless runner game with exciting obstacles.",
+    "size": 60,
+    "reviews": 40000,
+    "ratingAvg": 4.3,
+    "downloads": 480,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 13000 },
+      { "name": "5 star", "count": 21000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/koXfW3JR_z4_3KihWWL0k-Xhdc8Ak6kSMFrQFz2FqTULKuiC5L0w_LTTA37LFWYcF98=s64-rw",
+    "title": "Football League 2025",
+    "companyName": "GamePro",
+    "id": 63,
+    "description": "Play competitive football matches online.",
+    "size": 70,
+    "reviews": 30000,
+    "ratingAvg": 4.2,
+    "downloads": 450,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 18700 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/OxNGx8LU6gm8aLfJcwcJxunvj2a7zDgDyPOD4J9HRSIc6N_1O1iZ2dLr3xQMbuMy_wE=s256-rw",
+    "title": "YouTube Kids",
+    "companyName": "YouTube",
+    "id": 64,
+    "description": "Kid-friendly videos and content from YouTube.",
+    "size": 75,
+    "reviews": 90000,
+    "ratingAvg": 4.6,
+    "downloads": 700,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/FafD4vlzxogAHYu3KaNuQ0mlKY0FIm11SqAXrqOIPPWsPMhTZUJ6LwuBJktMU_JT0_w=s256-rw",
+    "title": "Piano Kids",
+    "companyName": "Kids Learning Games",
+    "id": 65,
+    "description": "Fun piano learning game for children.",
+    "size": 60,
+    "reviews": 40000,
+    "ratingAvg": 4.5,
+    "downloads": 560,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 14000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/EDxS4apcYaLkbbZzXYNhAtyqsVo_OBGWWgf0Va4Gsz_ZF5rpN46TI8rwklp01zKrE0jAIzeIMNlJzfrgmHbF=s256-rw",
+    "title": "Kika Videos Fur Kids",
+    "companyName": "Kika Tech",
+    "id": 66,
+    "description": "Videos and songs for kids in a safe environment.",
+    "size": 55,
+    "reviews": 30000,
+    "ratingAvg": 4.4,
+    "downloads": 450,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 13000 },
+      { "name": "5 star", "count": 11500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Yi07pS-SF3w_ENRrdOvczzesQDmAAch_Kqt8pT8iYgVQ4vnLNb1Sqd2IIe4KIvTeKO0=s256-rw",
+    "title": "Scratch Jr",
+    "companyName": "MIT",
+    "id": 67,
+    "description": "Coding and programming app for young children.",
+    "size": 50,
+    "reviews": 25000,
+    "ratingAvg": 4.5,
+    "downloads": 420,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 11000 },
+      { "name": "5 star", "count": 9500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/wFKzzzda5fn5wZ0X5LdkuhmthnW0MvpR_42wA-frJjN2FlDehlT5Qo1DcGHkuj-4Ewlr=s256-rw",
+    "title": "Baby Shark ABC",
+    "companyName": "Pinkfong",
+    "id": 68,
+    "description": "Learn ABCs with Baby Shark and friends.",
+    "size": 65,
+    "reviews": 60000,
+    "ratingAvg": 4.7,
+    "downloads": 630,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 17000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/lACBP4FLcQiy8xiZPksYwLUkRrR2lyCaMhkVVVqvQkLL2O8GGpxasQcrQG5ZVmd2n_Grw2RQPaTasRU-e4zlnw=s256-rw",
+    "title": "Bluey Lets Play",
+    "companyName": "Entertainment One",
+    "id": 69,
+    "description": "Interactive games with Bluey characters.",
+    "size": 60,
+    "reviews": 35000,
+    "ratingAvg": 4.5,
+    "downloads": 500,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 19000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/DB7bWBeHj0RvBPeUrA0E8xf4rFEAk5klxzjxHp0Nc8qcj9_DrkbnRafofm0MVEN5Fg=s256-rw",
+    "title": "Blad and Niki Games",
+    "companyName": "Blad Studios",
+    "id": 70,
+    "description": "Fun games for kids with adventure themes.",
+    "size": 55,
+    "reviews": 28000,
+    "ratingAvg": 4.3,
+    "downloads": 480,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/NP1VYpprYnEwHZni_RSBo3Q6A47urA0Lfwg0L7Yl4-1YBl91VvMcLZp2f0JLaLwjXlM=s256-rw",
+    "title": "Vania Mania Kids Games and Videos",
+    "companyName": "Vania Games",
+    "id": 71,
+    "description": "Educational and fun games for kids.",
+    "size": 50,
+    "reviews": 22000,
+    "ratingAvg": 4.4,
+    "downloads": 430,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 11500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/pqNnj4o22t2GWXcvc_r_E3CYwuVeM0pvEafSPVrl0B-7fBDlQtOMsEaZSz05XX6Cf0Y=s256-rw",
+    "title": "Babasharo Kids",
+    "companyName": "Babasharo",
+    "id": 72,
+    "description": "Interactive videos and games for children.",
+    "size": 55,
+    "reviews": 18000,
+    "ratingAvg": 4.3,
+    "downloads": 420,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 11500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/ww8NnxXLAJY4dNJx34AXAY8-h0OkOKmidT_QC5osuhamzHXktzFAXyIJg5tNQvwjGiGc=s256-rw",
+    "title": "Kids TV",
+    "companyName": "Kids Channel",
+    "id": 73,
+    "description": "TV shows and videos designed for kids.",
+    "size": 60,
+    "reviews": 24000,
+    "ratingAvg": 4.4,
+    "downloads": 450,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 10500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/7H7HxB93lNABOEW0dBW1BBrsuLvU39Qkm-2krw5niHsHv1YtTPJsNGQfgD_ijfl-sQ4qgLz3YSAkX7wH7TN5=s256-rw",
+    "title": "Barbie Color Creations",
+    "companyName": "Mattel",
+    "id": 74,
+    "description": "Creative coloring games with Barbie characters.",
+    "size": 50,
+    "reviews": 22000,
+    "ratingAvg": 4.3,
+    "downloads": 420,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 11500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/xFdrBo7MT2F6lHEcLj7Sv8dijQ541DjwFdR7W8S20vIZwnCGW67uX5ohEWVJJ8hgrcs=s256-rw",
+    "title": "Fobocar Poli Sing Along",
+    "companyName": "Fobocar",
+    "id": 75,
+    "description": "Sing along with Poli characters and learn songs.",
+    "size": 55,
+    "reviews": 20000,
+    "ratingAvg": 4.3,
+    "downloads": 410,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 10300 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/G6jK9S77RN0laf9_6nhDo3AVxbRP9SgMmt8ZmQjKQ2hibn9xhOY-W5YFn_7stJD1CA=s256-rw",
+    "title": "Threads",
+    "companyName": "Meta Platforms",
+    "id": 76,
+    "description": "Connect and share updates with close friends.",
+    "size": 70,
+    "reviews": 120000,
+    "ratingAvg": 4.5,
+    "downloads": 480,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 75000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/u9GH1z_4T_YrQFA8OcgTUqUeaRU9Sh99i2ptfrpwTvEhvw3etf7L0MGzABgjJ_b4U9o=s256-rw",
+    "title": "AllTrails: Hike, Bike & Run",
+    "companyName": "AllTrails",
+    "id": 77,
+    "description": "Discover hiking, running and biking trails worldwide.",
+    "size": 90,
+    "reviews": 95000,
+    "ratingAvg": 4.7,
+    "downloads": 600,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 28000 },
+      { "name": "5 star", "count": 47000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/L40FnQ8nF8zRtUdALz9b23JirsxYA5-0_fkRUlFBMymud09ctBCFrNui4l-ES_V6Uw=s256-rw",
+    "title": "iQIYI Drama & Anime Show",
+    "companyName": "iQIYI Inc.",
+    "id": 78,
+    "description": "Watch Asian dramas and anime shows online.",
+    "size": 85,
+    "reviews": 80000,
+    "ratingAvg": 4.4,
+    "downloads": 520,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 39500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/0Zb-LP5DFkezAVnX6ez5Op-qbchLdMffqIY9ct9qmmN1cMZlWCEBwK3BLIgKdi-X0Q=s256-rw",
+    "title": "Photoroom AI Photo Editor",
+    "companyName": "PhotoRoom",
+    "id": 79,
+    "description": "AI-powered photo editor to remove background and enhance images.",
+    "size": 80,
+    "reviews": 110000,
+    "ratingAvg": 4.6,
+    "downloads": 670,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 55000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/_LPi77jgitsjWs9AouX1x9NlvuHEwGO85V6vJZUqykOtBAymq1Rz2z0ZQ0A6X6YORI8=s256-rw",
+    "title": "Viki: Asian Drama & Movies",
+    "companyName": "Viki, Inc.",
+    "id": 80,
+    "description": "Watch Asian drama, movies, and TV shows with subtitles.",
+    "size": 75,
+    "reviews": 85000,
+    "ratingAvg": 4.5,
+    "downloads": 560,
+    "ratings": [
+      { "name": "1 star", "count": 1800 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 14000 },
+      { "name": "4 star", "count": 28000 },
+      { "name": "5 star", "count": 38000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/hexunszQESgaMxZdfuGvYdNnS6fRebRqW5lECqadoqlTL3fbJbLL6NKceHlQ58ALXcE=s256-rw",
+    "title": "PicsArt AI Photo & Video Editor",
+    "companyName": "PicsArt",
+    "id": 81,
+    "description": "Edit photos and videos with AI-powered tools.",
+    "size": 90,
+    "reviews": 120000,
+    "ratingAvg": 4.6,
+    "downloads": 710,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 61000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/sJzwD4NGxeqGTiTz0RNMhq5wR0A_XK39bAekJUca5G01qI285I-z9lbgfnClJPKQHTY=s256-rw",
+    "title": "Inkredible Handwriting Note",
+    "companyName": "Vito Technology",
+    "id": 82,
+    "description": "Write and draw naturally with your handwriting.",
+    "size": 50,
+    "reviews": 45000,
+    "ratingAvg": 4.5,
+    "downloads": 480,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 16000 },
+      { "name": "5 star", "count": 22000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/zjeY6g7sVb33qgw5DhdiTK7PDpEP2bml8EG78E3seqAOpqGtHd-QCxiXIi1UaapFahzi=s256-rw",
+    "title": "NoteIn Handwriting Note & PDF Sketchbook",
+    "companyName": "NoteIn",
+    "id": 83,
+    "description": "Handwriting notes, sketches, and PDF annotation.",
+    "size": 60,
+    "reviews": 40000,
+    "ratingAvg": 4.4,
+    "downloads": 520,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 21000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/tUZNUbnNGw8I6uLg8Zy2ZWbmSFuT5kK0dYA8tdqNmldlozNS_jSjDw5j2nElRsoTzQ=s256-rw",
+    "title": "Canva AI Video",
+    "companyName": "Canva",
+    "id": 84,
+    "description": "Create and edit videos with AI-powered tools.",
+    "size": 100,
+    "reviews": 95000,
+    "ratingAvg": 4.6,
+    "downloads": 620,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 47000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/oaiVWSRYgpBXe71Y6YKpn2dDiuAddqQVsaWG47ocOp70e2r6YxHVmPnTAFFvI3O524E=s256-rw",
+    "title": "DrawNote Drawing Notepad",
+    "companyName": "DrawNote Inc.",
+    "id": 85,
+    "description": "Sketch, draw, and take notes easily.",
+    "size": 55,
+    "reviews": 42000,
+    "ratingAvg": 4.4,
+    "downloads": 480,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 22000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/vaxxIC1qaXOd1q1hmL7c66N-Mp4LXuQIuBZGM0dPIbwmyWcJAXbhIIZ8hNBWvar54c_j=s256-rw",
+    "companyName": "Notion Labs",
+    "id": 86,
+    "description": "Manage notes, tasks, and collaborate with AI assistance.",
+    "size": 95,
+    "reviews": 80000,
+    "ratingAvg": 4.5,
+    "downloads": 560,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 43000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/6CFQQ0b9r5fzF1v6f0gIirWsOGL7sGWkJifuUQxxhbCMcBx5aSG_cNXpjDKDn5c1jwjq=s256-rw",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 87,
+    "description": "Discover and save creative ideas from around the world.",
+    "size": 70,
+    "reviews": 130000,
+    "ratingAvg": 4.6,
+    "downloads": 750,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 3500 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 67000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/ynzziGfmYSMe4TjtQ98tn0LSLnb3xdQJKdXM-foaH2Iv0-eBXJWkQEXejQjbIvXG0g=s256-rw",
+    "title": "Lightroom Photo",
+    "companyName": "Adobe",
+    "id": 88,
+    "description": "Professional photo editing with Adobe Lightroom.",
+    "size": 85,
+    "reviews": 110000,
+    "ratingAvg": 4.7,
+    "downloads": 680,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 32000 },
+      { "name": "5 star", "count": 55000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/M5UtBD1K6ksryrf3rz9ljAsUQ8XNTzxpa6O6v-OSzhDDREC4DrA5cjz6PmDqhGjDmV86=s256-rw",
+    "title": "PowerDirector Video Editor",
+    "companyName": "CyberLink",
+    "id": 89,
+    "description": "Edit and create videos easily with PowerDirector.",
+    "size": 95,
+    "reviews": 90000,
+    "ratingAvg": 4.5,
+    "downloads": 600,
+    "ratings": [
+      { "name": "1 star", "count": 1800 },
+      { "name": "2 star", "count": 2200 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 45000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/JqLqNGQ1z1gpBJ1QiWw1xqj18A1iDUoMPg9y_htBM5o-jLN_TOkbZqU2XcLN7jiLgQ=s256-rw",
+    "title": "Photoshop Express",
+    "companyName": "Adobe",
+    "id": 90,
+    "description": "Quick and easy photo editing on mobile.",
+    "size": 80,
+    "reviews": 100000,
+    "ratingAvg": 4.6,
+    "downloads": 650,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "4 star", "count": 28000 },
+      { "name": "5 star", "count": 52000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/lQ5lwb__AcjmjGa0EECZwMCtk7JjdGdk-iVd3EEeOXtXxXq9y0ta7VQ-V2AAWaNDXfA=s256-rw",
+    "title": "Pixlr AI Photo Editor",
+    "companyName": "Pixlr",
+    "id": 91,
+    "description": "AI-powered photo editing with easy tools.",
+    "size": 75,
+    "reviews": 85000,
+    "ratingAvg": 4.5,
+    "downloads": 580,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 45000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/UMkBDjFMtkLk4LwYLVPa5V3BO3KITxaEUgkVd6qDawAMRqlJXc48d92Ziyq3sd-fRKPb=s256-rw",
+    "title": "Beatpart DJ",
+    "companyName": "Beatpart",
+    "id": 92,
+    "description": "Create and mix music like a professional DJ.",
+    "size": 65,
+    "reviews": 40000,
+    "ratingAvg": 4.4,
+    "downloads": 420,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 16000 },
+      { "name": "5 star", "count": 22000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/wKJ5hN5CmSBWXPBVYYuRENzcEVb7FB6NyibjKqPT4SB0eoZ7Fww2jq-OhUDCxEPGALrSekQaazrHLSBwVb6T4A=s256-rw",
+    "title": "HBO Max: Watch Movies",
+    "companyName": "Warner Bros.",
+    "id": 93,
+    "description": "Stream movies and TV shows from HBO Max.",
+    "size": 120,
+    "reviews": 150000,
+    "ratingAvg": 4.6,
+    "downloads": 780,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 82000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/yC17R-QYEZLmTMB7hD8KRjnWu6pJ4qNsdNQibLw8Z07kyY08IRbS89z7kATx75SR9A=s256-rw",
+    "title": "Google Chat",
+    "companyName": "Google LLC",
+    "id": 94,
+    "description": "Messaging and collaboration for teams and individuals.",
+    "size": 85,
+    "reviews": 95000,
+    "ratingAvg": 4.5,
+    "downloads": 640,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 28000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/WUcazXmUT97aoXa1TmB72z1RrP4shaBA4Te9vH5fcCHIPCBVjj5F6fGEPgNq6HXmXw=s256-rw",
+    "title": "Dropbox: Files & Cloud Storage",
+    "companyName": "Dropbox, Inc.",
+    "id": 95,
+    "description": "Store and access files safely in the cloud.",
+    "size": 90,
+    "reviews": 105000,
+    "ratingAvg": 4.5,
+    "downloads": 720,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 3500 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 52000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/-UJfyCGXOGNlA_7ys13IRTRxnrA5NGick84oQx-dBTr2swpki2xGIlHPcQaF46H21-u4=s256-rw",
+    "title": "Google Home",
+    "companyName": "Google LLC",
+    "id": 96,
+    "description": "Control smart devices and manage home automation.",
+    "size": 70,
+    "reviews": 80000,
+    "ratingAvg": 4.4,
+    "downloads": 580,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 29000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/1fqmsQDxaBDhvgVq2ceqB4ij46YJ1P7pwIrAkIOBml9fbIMO8RZe1Q7bAwp4-VXetaw=s256-rw",
+    "title": "DocSign: Upload & Sign Docs",
+    "companyName": "DocSign Inc.",
+    "id": 97,
+    "description": "Upload, sign, and share documents securely.",
+    "size": 50,
+    "reviews": 45000,
+    "ratingAvg": 4.5,
+    "downloads": 460,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 16000 },
+      { "name": "5 star", "count": 22000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/tw_coGKgk1K_zO-Ypf9zBKV1s-KT3dYN1MIUxIqtnbfmON5x_YmuoAr31gE4oSfJHNtA-aStTd-qe9R8S6NVyA=s256-rw",
+    "title": "Duolingo: Language Lessons",
+    "companyName": "Duolingo",
+    "id": 98,
+    "description": "Learn languages with interactive lessons and practice.",
+    "size": 85,
+    "reviews": 140000,
+    "ratingAvg": 4.7,
+    "downloads": 800,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 3500 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 85000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/3TU0lcOEHV3sqVY8N5ptfoW2JhpTofIXa1xUIcwFnu4GH9NpN1zvgb4dIhmlOessNNM=s256-rw",
+    "title": "Kahoot! Play & Create Quizzes",
+    "companyName": "Kahoot!",
+    "id": 99,
+    "description": "Play and create fun quizzes for learning and engagement.",
+    "size": 60,
+    "reviews": 70000,
+    "ratingAvg": 4.6,
+    "downloads": 520,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/TA4JBUJJ80NvlWiWLwLwy_H3-S7vhpHlAZ8rCW7Azuzse8O8f2wOlOvV1M-TpyX8B5Qo=s256-rw",
+    "title": "Math Kids: Math Games for Kids",
+    "companyName": "RV AppStudios",
+    "id": 100,
+    "description": "Fun math games for kids to practice basic arithmetic.",
+    "size": 55,
+    "reviews": 65000,
+    "ratingAvg": 4.5,
+    "downloads": 480,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 16000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/nj-gq0QkrDk4FhqWvlwRjOoR7ge3SM668oW15pZL0ZtpErrliNaOtjZgGYiY2EpLF6VW=s256-rw",
+    "title": "Snap Type Pro",
+    "companyName": "Snap Type",
+    "id": 101,
+    "description": "Type on PDF worksheets quickly and efficiently.",
+    "size": 40,
+    "reviews": 35000,
+    "ratingAvg": 4.4,
+    "downloads": 420,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 22000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/zC31Ziwd7KzQzkaT5nMOEnXLlvZQf2EvITA4VzRtcQGO0vSHSZICe4s37P0Kq4hnJCk=s256-rw",
+    "title": "123 Numbers Count",
+    "companyName": "Educational Kids",
+    "id": 102,
+    "description": "Learn counting and basic numbers for kids.",
+    "size": 45,
+    "reviews": 40000,
+    "ratingAvg": 4.5,
+    "downloads": 460,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 16000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/NYerCWXaH0kwo937P2igSvpaiiw6qKA_XhkF9AsK1S72y2CNjT-lm4RZly61wgHqE6aRYIc2m78mKngjFdAB-A=s256-rw",
+    "title": "Khan Academy Kids",
+    "companyName": "Khan Academy",
+    "id": 103,
+    "description": "Educational app with lessons and activities for children.",
+    "size": 70,
+    "reviews": 80000,
+    "ratingAvg": 4.7,
+    "downloads": 600,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 24000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/sJzwD4NGxeqGTiTz0RNMhq5wR0A_XK39bAekJUca5G01qI285I-z9lbgfnClJPKQHTY=s256-rw",
+    "title": "Inkredible Handwriting Notes - Emyscript",
+    "companyName": "Vito Technology",
+    "id": 104,
+    "description": "Handwriting notes for students and PDF annotation.",
+    "size": 50,
+    "reviews": 35000,
+    "ratingAvg": 4.5,
+    "downloads": 440,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 21000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/YNxwUNwBOkzhtbJ0-UiMfSaLAFT9fDVYL7L2JQDCosBnb50Z9g2AFuOffBLwnYs_Gdw=s256-rw",
+    "title": "Infinite Painter",
+    "companyName": "Infinite Studio",
+    "id": 105,
+    "description": "Professional painting and drawing tools on mobile.",
+    "size": 90,
+    "reviews": 70000,
+    "ratingAvg": 4.6,
+    "downloads": 580,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 28000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Uquu01EBxEbztp4X4lApPqIBqP2A_kKgKwQy8weM-wY1T1MDSVJ8Hrvy2-8cSPpwAQ=s256-rw",
+    "title": "Squid: Take Notes, Markup PDF",
+    "companyName": "Steadfast Innovation",
+    "id": 106,
+    "description": "Take handwritten notes and annotate PDFs easily.",
+    "size": 55,
+    "reviews": 40000,
+    "ratingAvg": 4.5,
+    "downloads": 520,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 16000 },
+      { "name": "5 star", "count": 22000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/1ckxjos_oOGSNOFyUE-cp7xSCoKLVgMOEAGVCgb6WDhObTlDDnyLohgtI8o1TI2c7A=s256-rw",
+    "title": "Jitsi Meet",
+    "companyName": "8x8, Inc.",
+    "id": 107,
+    "description": "Secure video conferencing and meetings.",
+    "size": 80,
+    "reviews": 50000,
+    "ratingAvg": 4.4,
+    "downloads": 540,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 16000 },
+      { "name": "5 star", "count": 21000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/7ZpiuB7ZKoI15XaJlYhdSaB-w7toOGh2t94slYvGrnYhXuYvb29YMNlVYt8ZZqHRjA=s256-rw",
+    "title": "Noteshelf: Notes & Annotations",
+    "companyName": "Fluid Touch",
+    "id": 108,
+    "description": "Take notes, annotate PDFs, and organize your ideas.",
+    "size": 70,
+    "reviews": 48000,
+    "ratingAvg": 4.5,
+    "downloads": 500,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 16000 },
+      { "name": "5 star", "count": 22000 }
+    ]
+  }
+]

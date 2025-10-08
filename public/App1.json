@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADRElEQVR4AbRWQ3RkURS8Yzv2NjY3cbIbs5N17OyyGtu2bdv2THfGthG7U9M1dt4P6pzbuL/qvvrP8jNQLo6olpGmMKBGKkyBRooKGEXP2mxDfgcgzUwknSneUNCkYZTXbIttCkEwofDGjRlsS/ej29XevPF7gsMBo4zUKq4qF9y5JThyiCG4e4s57SY4J2jAoCqoLBMsXSzw9hJ07NgcDg4ODP5mDsuWkKOpF/Qc/0oVcnGBIF4nsLOzwcSJE3Hv3j0UFxeDwd/M2dpaIz6OXPW5ICpEY5UgPU3g5uYKNvYv3L17F66uLsjOpEbNhJIB/WVBjx7tcfHiRdSF8+fPo3v39sjXN6KBkcMFMTExMBqNqAvkREVFYcyoRjTQu5cgPT0dqkhNTcXgQY1kgGMZHiaYNm0aVDFu3DhEhAtqqxtggMtpxHBBSLDArIdgwoQJUMWwYcOooZbDx1raDaxfxyVni1GjRkGn02HMmDFQxejRoxEXFwdqbWyssGVTPQwsmCfw9PREYWEhamtrUVVVBVWQSw217u7uWLywHgZevxT4+QmCgoJw4cIFsKAqyOVyDAgIQGCA4O2rek7C928EyUmCLl064/Lly1AFuR07tkdaCms0cBXs2SkwM+uOFy9eQBXPnz+HWY9u2Lu7gcvw2WOBq2sz5OXlaR4CatzcmuH5k3oY4Po9f0bg5SkYMGAASkpKoBXU9O/fH15egvNnWVPRQMF7QVKioHv3tuDux9OuvqA2LS3NVKsNa7J23QZ4pltaWuLUqVMqe7/S2cBarLl6pYIBnnzW1i3Rt29frFmzBgUFBagvqF29ejX69OkDG5uWMFxVMMCxum4QZKSxJwQpKSmorq7W1BvkUpOcnMwayEhnTdbWsApI3rRBeLZzM0J0dDRyc3Oh1+v/uiKY4zNyyKWG2s0b/38o/fdKxpPwwjnBqhWCmdN5LNNQB2RnZ+PGjRvfr2T8zRyfkTPDxF25nFrWqOtKVi35qpdIFjtxTBAbI+jSuTmcnJwY6NKlOXM4cZQcTbdiAw2M+pFUN/Lw3o9rOX9ravjTkJrlA9YxAdkJsnugu2b075xC7EB0TrF1z1uhCfMnFS39Ce6B/cXsngMAoMbZs/GdcckAAAAASUVORK5CYII=",
+    "image": "https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo=s64-rw",
     "title": "Snapchat",
     "companyName": "Snap Inc.",
     "id": 7,
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEz////////////////////////////////////////////d3d3Dw8PR0dHo6OgiIiIBAQFFRUXz8/O1tbVubm5aWlqgoKA5OTl8fHyLi4s1UCuLAAAADHRSTlMAM4fC7P+GYGEX4D7Ojz1PAAABKElEQVR4AY2TBZLEMBDEQloMtdn7/4depnzMKgjIONC90g/jBNN46rvPnCdemS4f1PXGB27XN3fnC/fPbl7WL/aKwbbLSes2ewzayrfmFICog2Sam7kLBinDXLSAj8I4H3LCCIKqDKuH9ACYjrtj7LtYBT5JmVkYfXcCcJFDFh6qtnZocuhGYBPeZiol23RRk6NtSUhNrrCqzOBq2xSTDpMF7L8qXh7ApL1TFR1AmdGGCwDtJtXB5tqyK/KkgC07YkgBFjtQk9qwAw1NLtpniwLlkMQEcGpBQDNZih5s5r7TgtA2fSTwM2RVUMCYrEAwbBaLygY5YXB5S1nUQQSCPMbtLdm2ql+lon3D4PqlhOZl/lpEX7j/qzSNy/uiPnef6U+tHYa3dngChykXpLJcwZkAAAAASUVORK5CYII=",
+    "image": "https://play-lh.googleusercontent.com/lmG9HlI0awHie0cyBieWXeNjpyXvHPwDBb8MNOVIyp0P8VEh95AiBHtUZSDVR3HLe3A=s64-rw",
     "title": "ChatGPT",
     "companyName": "OpenAI",
     "id": 11,
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAASFBMVEVHcEz////////////9/f3////////////BwcO3uLry8vNZW18AAAArLTPf4OFub3MBAw4TFh2Fh4qjpKWZmZw/QUbV1daUlZjKhmoCAAAACHRSTlMAPqvf+v8CpIMLQlYAAADWSURBVHgBfdNFAsQgDEDRCqngzv1vOgljYaR/2VfDJmxeVgFDYl3midp2+Nm+IXIbFd8Jf5un5T8u0/of10kAdZzvDrok6Z+nbkrzDFjnAOsovWfmtdOaYfDx+eIjGboz8ie9s0CJHNBKhRcKpzFkmb1GOgBeiFXV2eAHzQnAkbIKwXtGDM9Cv+xDlF94FBpfo5f7JgeU/YtNPm4KTXD0/nXhoNeHJIZJSPleyn0SHMNx+pphCE7zFMh2R9HV1nf2tc0uF/tym1xusOuteb2pfxwH8TgONwO6FyiVG0GLAAAAAElFTkSuQmCC",
+    "image": "https://play-lh.googleusercontent.com/NafAciugdQk6L7_D0cmNq8cypX0pvA88h9DzlxIJQbPd3caZM3_S5-nZedHdnrcq_wCm=s64-rw",
     "title": "CapCut",
     "companyName": "ByteDance",
     "id": 12,
@@ -214,149 +214,8 @@
       { "name": "4 star", "count": 15000000 },
       { "name": "5 star", "count": 54000000 }
     ]
-  },
-  {
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA+ElEQVR4AbXRLYyDMBwF8OddDeK8QNTb8wk5iw8OjURh6klwQ9UiEWfRNXhUDRJFQlLzthWx0s3uZ1/T/xe+T5a3W5Phk3ql54YfRJKZNF1Tt+PBPcfVzPkXJ03+IdRxCgpwRUDsx7NQMYxKAhjZBGHFHkhn308FpLRBOD2rVDRl0dNJQJVBuDg8+BEVFa72DT5VetA0uBBc4PvwXBuF1o+zNkWhHGnev12OFEDOybBD3JDdE/93iWNDPErPua7+aQUM5WUJ2j95sBkwXcLE+fXlbVeeLQgE2nDxmmN8MiNxGrhF5xbmdexNIqYsPdcLfCDrVjcZvu4O2qyiNq2lHIsAAAAASUVORK5CYII=",
-    "title": "Threads",
-    "companyName": "Meta Platforms, Inc.",
-    "id": 13,
-    "description": "Text-based social networking app by Instagram.",
-    "size": 40,
-    "reviews": 50000000,
-    "ratingAvg": 4.5,
-    "downloads": 32,
-    "ratings": [
-      { "name": "1 star", "count": 500000 },
-      { "name": "2 star", "count": 1000000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 8000000 },
-      { "name": "5 star", "count": 39000000 }
-    ]
-  },
-  {
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA7VBMVEVHcEz/RkL/R0D+SEr/RUD/RkOwjlb/SD7/SE3/SUj/Vzb/VDf9TFb8TVeHoFb/YTD/byn8TVn/jRr/fSL/mxL/SEj+yQn/ohH/tQv+VUb/vQn/wwn+zgj9wQm3xQ39zgT6zQYwhv/7zgowhv8uhv0ek+Avhv7yzAPjywIvhv0whv7PyQHUygIth/y3yAEnivSlxwGSxgUak94fj+h5xAlgwxMLqp8NnsQVlte6xwBNwh45wC0xwDMLt28IrJgJpa0kjPCaxQEpvzsevkkWvVANumQQu18JtXkIsIgTvVYOvGALuWtJwh4OvF8OvF9ccfxCAAAAT3RSTlMAUZvT7P8T//+wiv//kAv6/mD//+V2jv//JKf//0EmxOr/rP7+MEX//x10/6eu//3+/9v///7I//+K//+KS/3/YeX//7dsnv7/////5s3tMAqBMAAAAXFJREFUeAF0jUUCwCAMwDp3d/f9/4krnVt6goQCFzheECVJFHgOPpB5RZHYIKqqyU+vGwpCXkVM07pp2zEQ8hSYiCBf1rsuFrQCvaSahHe+9wMqWHJuOD2E/lYoWsRxkUbBxcdJshY6bEQ3L6fpWmTnXXbxkBcpJTb8UBZFgUX156uyLLHI4Y+YgqL+DZqS0R7n7o4NLQX9GQwbI5tugpKI7wF5Rjd/BiNCCQZfX5BfCwyWrsnagGEYiKKpMkLqgJmZmXn/caKTzGoM7+v4IEiWPQdJ4fMhFujHCzjH7Wny6xFwMB9UKBa4KN3Tl4kh9AZYVJRbpXhVVRGX0asEXNP1a7MM0wQJA+0WFcQtyz7bcFzPAwn+8AkPwmjDcZK6WJGR75zwsCirOo7rpu0SojC2oQUeIF72/TCMY4sUKSj2wX9iXgAHwYgEoKBPizOBgx4EhwnCtxOtDnYTzn1Gnw3wzYQT3zDJrpmXYVjmpj7d/gPknlJE6eZSewAAAABJRU5ErkJggg==",
-    "title": "Google",
-    "companyName": "Google LLC",
-    "id": 14,
-    "description": "Web search engine and various services.",
-    "size": 55,
-    "reviews": 60000000,
-    "ratingAvg": 4.7,
-    "downloads": 33,
-    "ratings": [
-      { "name": "1 star", "count": 1000000 },
-      { "name": "2 star", "count": 2000000 },
-      { "name": "3 star", "count": 4000000 },
-      { "name": "4 star", "count": 10000000 },
-      { "name": "5 star", "count": 43000000 }
-    ]
-  },
-  {
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEwIZv8IZv8IZv8IZv8IZv8IZv8IZv8IZv8IZv8IZv8IZv8IZv8IZv8HZv////8AY/8AXv8AWP+Lrf+80f8cbv9Xjf/1+f85e//X5P/p8P+rxP9wnP8xgifcAAAADnRSTlMAplOSPzBiFfjMetq27f7664IAAADsSURBVCiRlZLbcsMgDESxwQGcVEL4Gjf//50VFzsmJJ12Hxhmz2gBISH+KK3aVul3pGsMRH3JV64tnNQU7AKlTPeZsQ6qagawH2zeMGMT6yviHC+qKCRyCfnHwLtbfGBmflxmzya5Ee+ejVOqmxFxJPLzgji5fOEmMWIPcXl88zpQsC4Mbyk0mFkxFKDfK2PorjVdLFTKWLhxwTTd8QgFaHPviEMH75wfEDd/6pEOELeV4rWmMYeCiU3g33JrbgDjvAF59H136s7bmqSHfPoW+xySil5/GZNiiNqyTIlX2MirCRMgO1FK2178Vz+v2xyw23ol9QAAAABJRU5ErkJggg==",
-    "title": "Messenger",
-    "companyName": "Meta Platforms, Inc.",
-    "id": 15,
-    "description": "Messaging app for Facebook users.",
-    "size": 45,
-    "reviews": 55000000,
-    "ratingAvg": 4.6,
-    "downloads": 34,
-    "ratings": [
-      { "name": "1 star", "count": 500000 },
-      { "name": "2 star", "count": 1000000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 9000000 },
-      { "name": "5 star", "count": 42000000 }
-    ]
-  },
-  {
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAOVBMVEUAAAAAAAAAAABBQUFfX18nJydKSkrHx8f////39/etra0TExO4uLiHh4fi4uLR0dF7e3ugoKCTk5MYNif5AAAAAnRSTlMs5gbL4dsAAACwSURBVHgBndKFAYNAEARAeHfrv9fIYnfxsDgD79M0izeZ3xtUfMjvKJXSr9FYd48P8RkTCMmPWBxJ4FgdS6bYHJJaXr+KBP39RREqdC2B6UCDZi5lZ6g/cODtcIjGN3rHhMeyYMdHimPcMHMMeMQn21XuiJ6Upc1W4BPSFTwHEUrJouATggFalNbZ49YQRIkkSVCUzIpgKAyxKhjSCfXt5TJpwaauTi2wx3xe1Fy5XQEA7w31cNDfPgAAAABJRU5ErkJggg==",
-    "title": "HBO Max",
-    "companyName": "WarnerMedia",
-    "id": 16,
-    "description": "Streaming service offering a wide range of content.",
-    "size": 70,
-    "reviews": 45000000,
-    "ratingAvg": 4.6,
-    "downloads": 36,
-    "ratings": [
-      { "name": "1 star", "count": 400000 },
-      { "name": "2 star", "count": 800000 },
-      { "name": "3 star", "count": 1600000 },
-      { "name": "4 star", "count": 8000000 },
-      { "name": "5 star", "count": 35000000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
-    "title": "Amazon",
-    "companyName": "Amazon.com, Inc.",
-    "id": 17,
-    "description": "Online shopping platform with various products.",
-    "size": 65,
-    "reviews": 60000000,
-    "ratingAvg": 4.7,
-    "downloads": 37,
-    "ratings": [
-      { "name": "1 star", "count": 400000 },
-      { "name": "2 star", "count": 800000 },
-      { "name": "3 star", "count": 1600000 },
-      { "name": "4 star", "count": 9000000 },
-      { "name": "5 star", "count": 50000000 }
-    ]
-  },
-  {
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFrklEQVR4AaWXA5QjSxSG/6pgmGcsn23btm2tbdu2bdu2bdsaxUlV3VdzOpNNz3Q2iz7nOzcp/X/futVJcyS4ni1Jjsdr+d94ura/wTN1vWNfqO9d/WJDz6lXGrszXmvqlm82z5Fvt8zOeK919skP22at/qR95tjPOmbW/6Jz5htvNSY7ElxxDTxYk1z3Vww2cKcGDwvBloQkmgrJvg9L9qKOhTQ36nYeIfdz4bBgL4YF/17HZkJgSfp1WYe1kfrf9zibfkUGipQSn/s8YmdYsaZCsSJaDEIYhGOj1FEjJI9Elj8WFQLNAkHHzi86ZXx6WQZu/VdWEgqTtUixgmIJRE0mucZo1xSXik37otOFxpc04PqDaocE66wn8rBMLBoVy0OayG+QhSVv9FnHrBqWBlJ/Fp8rqVrEFRUWSM2VZUVHtP6oQ8YnJgO3/EMuxmRPkOIgCaVgKZYwKxZ1YmGKK8F7v6ULM2rA5/NVBsliGuRBpCAV4oteuig1zBpjbHF7jrOSYeAtsoNkKS0YEVcwGVEqMpFbi1kTNyvRG1C87LN9yMGTb816FSSLakARYGFGGUYsSZwVywIuknLO/SLnTLwBkiZBin4vaEYqxNxZVNSy8qXKJ5q/mEPsTc6Uejz2Tht878T2LqnY1iUF2zonaZzY1smhsWFLe44KHxFIGfXhdDC0/JnjYHcbjvW0YUoNG567x4bHinOMrODAzvZObGqVhKbfOZDqMETNBtnjnJS8M3qHkBi5JAAhCXffxiOwKPcWYqj2OQNIwsYUJlcHSr4HpCUBQgHP3sMwuhLHuCo2vHgfg1JAkgP49kUbhpR1AjBvRUjwOzlg7H8eB06F8FSlTBT+KwNF/8nSZOP3zn49CQCAXnMEQBI/vEx46QFgz0ng4UqEQv8BXWYCTjuQ7ACGLCHcV0ni2doCW48SHirC8P1LdlN9SMmKcpB0aQoUXY5XIMsj8PTdHH3LJsNhAzpODaL1xCBAEi/cZxjqOVvg2HmpF5RoMo6iRpuOB7wBhpMZDD3nEADgqTsLFK+LE8lUImVZdK89bMOYmulIcTJ0nR5AgxH+6DPCaTcWzfYqAMb4kFb3Bw0DGe6LQhkeBgB6ToFnRRrPEzabkFrcjol1b9D7q8Wn+VBnqNvUf/Eiy3alVEyxRUYSChxVzkj5oiYMtLgTE+vdbIhP9aDOkGyLZ0PeqgqUS2wbEB2nIsfWMFXgSHq5nuiOXfSFBxyY3PA2pCUzDJjrRpvx2bghjXBDKsGVHCtOJiEY5mPaZQyUlytTDYSIuTlInYgd/Pf7Lr3nhuN/P3DhxNCiODGkiKYQTg8rhFXtbkKhGygqdOC0MGXm4BkdAVPboTO55qAh02NdhnGCg8SR2MFD5mZiy8EADp0O64l5iCiuFIbvXknCyQsS9Ye7sXF/0FTA5fr4sGpPdDsNU9pk1SECR89R/sf6EU5KbgMuZmD1Lg9ernwQj5bcr8mNh/BoqcN4tPRRzTE8VuYEuk/LRvPRWeg0KafA8d18MIT3GuZASqMtrz76zQ2j9rCQabyQfBsH1FJY/xJatlEuicZbtJFFnw1iMQ/4vSuI5PF4Pz6A9eIU4RrMH3OfsK/hWPy2AIk+RqriLaCs2yBBCcbHN696YzETHAACjqSOIHk4TqoSLmppHpc0c9QnvV0v/imd9pyPIMuDpLrWfaa446NRMZKlMO42j+lfcXDOGzOYEnWudZ+RwDwjVcs77ubZlu8F/nlvtSVSlXNdmlNsgARmEpgnkGjiHX97+0u+GQXnvdlFT/wcJI9ZHqUrLDoyOMJIfOKbWDz+m5HZxDszA2F6BErWB6nj8Y9SQjPHiEQ9v8/9qHfS3bOv6O1YH09PYP7bLQIhdTdT8nWQbAClxkLJ1ZoTRDJTI0FKIzM1JzSrQGosETXQ8XV/zql7AlMebIm5T3oR5/ofW/oZFougXt8AAAAASUVORK5CYII=",
-    "title": "Zoom",
-    "companyName": "Zoom Video Communications",
-    "id": 18,
-    "description": "Video conferencing and communication platform.",
-    "size": 60,
-    "reviews": 55000000,
-    "ratingAvg": 4.6,
-    "downloads": 38,
-    "ratings": [
-      { "name": "1 star", "count": 500000 },
-      { "name": "2 star", "count": 1000000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 8000000 },
-      { "name": "5 star", "count": 43000000 }
-    ]
-  },
-  {
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEUAAAAAAAAFT1IAQUMDAABBub6i5Oe5wcRyQ0wIAABaxsv5////9/nGkJs5AAf////94OWSZW3m4uN4f4AhPj8AFBXt+vu019lzZG0mAAD91Nz/6e3wnq9VAAIALzAkfoM+o6djpqpGMDbNcIHVo632gJdrABPf+vvx7/HJYnUdAAA/AACNLD89zNLH9PfhXXcYnaO99vi8MU5Yz9SbCieE3uGtN1EAa3A9jI+ftLX//f7gN1pYAA8YHh/9tsToq7a3ADN4LtD7AAAAAXRSTlP+GuMHfQAAANJJREFUeAG90gMSxEAQBdDt2D9r27Z5/0ttUIhTThcGbzydy1FyZIMMwyYixwuiJCcgKaqmG8kIM5+CKBRL5UREpVqrR7DsoNZoAq12EDvdXn9gY3OYHzXGkwAyvDCdzRcOLgfSyvBjZ70BtG3dRSKZ8+NuD3O8PSxcDF2lc0RzfKoTxSFzRuNQp3hkBZgXp3JUzXkYy2do+oLo6q4QQroBs3t3d5w+Wqfor1QBtTJV0Xi+KIJvUXvg8fg8JxRFWuRH39b296I45Kjefi2zSc20sABZBhbHh+pZTQAAAABJRU5ErkJggg==",
-    "title": "TikTok Lite",
-    "companyName": "ByteDance",
-    "id": 19,
-    "description": "Lightweight version of the TikTok app.",
-    "size": 25,
-    "reviews": 35000000,
-    "ratingAvg": 4.5,
-    "downloads": 39,
-    "ratings": [
-      { "name": "1 star", "count": 300000 },
-      { "name": "2 star", "count": 600000 },
-      { "name": "3 star", "count": 1200000 },
-      { "name": "4 star", "count": 6000000 },
-      { "name": "5 star", "count": 27000000 }
-    ]
-  },
-  {
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX////+9fX+9/b96+vpAAD4xsXyjYrqEADqAADuVlL2s7HyhoPsNS/61tb2rq3wbGjrIxzrLyn1pqTzmJb60tHvZmP3vLv4wcDzk5HtRkL73t3xeXb97ezsQTzuWlb62djqGQ+7TL0FAAAAwElEQVR4AbWQVQLDMAxDF06GZab7n3KxyvBblWy9gNLH/WLci10zISF1CbU0XtZdQmkgKS7Yc4avC/i2ZqJn9pFmht8T/NHEd0CRwiNjNFFGMT7JAY4uE/Sx6QHayXQWg3Ysm5fLURQ7WFpvBfMSxm5ZNcahskCZbWANh1PZIFK7Mg5Wj02HSNUCI8Bv//l4T00jZw2GJEm+GxsOgrGzZD7/jwgIB59l0ymSGeZzbMV8JBQZoPj0qz4eNmRQtpv0B4L4C2q5kuOCAAAAAElFTkSuQmCC",
-    "title": "Adobe Photoshop",
-    "companyName": "Adobe Inc.",
-    "id": 20,
-    "description": "Professional photo editing and graphic design software.",
-    "size": 150,
-    "reviews": 40000000,
-    "ratingAvg": 4.8,
-    "downloads": 40,
-    "ratings": [
-      { "name": "1 star", "count": 500000 },
-      { "name": "2 star", "count": 1000000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 8000000 },
-      { "name": "5 star", "count": 30500000 }
-    ]
   }
+  
 ]
+
+ 

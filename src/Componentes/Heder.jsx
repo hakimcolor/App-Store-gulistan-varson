@@ -17,7 +17,7 @@ const Header = () => {
 
   const navLinks = [
     { name: 'Home', path: '/' },
-    { name: 'Apps', path: '/about' },
+    { name: 'Apps', path: '/apps' },
     { name: 'Installation', path: '/readList' },
   ];
 
@@ -50,9 +50,7 @@ const Header = () => {
     justify-center 
     gap-2 
     bg-gradient-to-r 
-    from-blue-500 
-    via-purple-500 
-    to-pink-500 
+   from-blue-700  to-blue-500 
     text-white 
     px-3 
     sm:px-5 
@@ -68,13 +66,17 @@ const Header = () => {
     hover:opacity-90 
     transition-all 
     duration-200 
-    w-22 
+    w-24 
     sm:w-32 
     md:w-40
+    cursor-pointer
   "
         >
-          <span > <FaGithub className=" " /></span>
-         
+          <span>
+            {' '}
+            <FaGithub className=" " />
+          </span>
+
           <span>Contribute</span>
         </button>
 

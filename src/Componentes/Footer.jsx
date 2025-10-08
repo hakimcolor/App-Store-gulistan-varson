@@ -6,15 +6,14 @@ import {
   FaApple,
   FaGooglePlay,
 } from 'react-icons/fa';
-import Logo from '../assets/logo.png'; // ✅ your logo
-
+import Logo from '../assets/logo.png'; 
 const AppFooter = () => {
   return (
-    <footer className="bg-gradient-to-br from-gray-900 to-gray-800 text-gray-300 mt-20">
+    <footer className="bg-gradient-to-br from-gray-900 to-gray-800 text-gray-300 ">
       <div className="max-w-[1700px] mx-auto px-6 sm:px-10 lg:px-16 py-12">
-        {/* 🌟 Top Section */}
+       
         <div className="flex flex-col lg:flex-row justify-between items-center gap-10 border-b border-gray-700 pb-10">
-          {/* Brand + Description */}
+       
           <div className="text-center lg:text-left flex flex-col items-center lg:items-start">
             <div className="flex items-center gap-3">
               <img
@@ -22,7 +21,7 @@ const AppFooter = () => {
                 alt="Heor.io Logo"
                 className="w-12 h-12 object-contain rounded-lg"
               />
-              <h1 className="text-3xl font-bold text-white">Heor.io</h1>
+              <h1 className="text-3xl font-bold text-white">HERO.IO</h1>
             </div>
             <p className="text-gray-400 mt-3 max-w-md text-sm sm:text-base">
               Discover the latest apps, games, and tools — all curated and
@@ -30,7 +29,7 @@ const AppFooter = () => {
             </p>
           </div>
 
-          {/* App Store Buttons */}
+    
           <div className="flex flex-col sm:flex-row items-center gap-4">
             <button className="flex items-center gap-2 bg-black text-white px-5 py-3 rounded-lg hover:bg-gray-800 transition-all">
               <FaApple className="text-2xl" />
@@ -50,7 +49,6 @@ const AppFooter = () => {
           </div>
         </div>
 
-        {/* 🔗 Middle Links Section */}
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8 mt-10 text-center sm:text-left">
           <div>
             <h3 className="text-white font-semibold mb-3">Explore</h3>
