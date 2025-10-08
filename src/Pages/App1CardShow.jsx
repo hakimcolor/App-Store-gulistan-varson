@@ -1,33 +1,3 @@
-// import React from 'react';
-// import { FaStar, FaDownload } from 'react-icons/fa';
-
-// const App1CardShow = ({ app }) => {
-//   const { downloads, image, ratingAvg, title } = app;
-
-//   return (
-//     <div className="mt-6 w-96 md:min-w-[200px] md:max-w-[700px] p-4 bg-white rounded-lg shadow-md">
-//       <div className="bg-gray-200 p-4 flex justify-center items-center rounded-lg">
-//         <img className=" w-40 h-40" src={image} alt={title} />
-//       </div>
-
-//       <h1 className="mt-4 font-bold text-2xl text-gray-800">{title}</h1>
-
-//       <div className="mt-2 flex justify-between items-center">
-//         <div className="flex items-center gap-1 bg-gray-200 p-2 rounded">
-//           <FaDownload className="text-green-500" />
-//           <span className="text-green-700 font-semibold">{downloads}M</span>
-//         </div>
-
-//         <div className="flex items-center gap-1 bg-gray-200 p-2 rounded">
-//           <FaStar className="text-orange-500" />
-//           <span className="text-orange-600 font-semibold">{ratingAvg}</span>
-//         </div>
-//       </div>
-//     </div>
-//   );
-// };
-
-// export default App1CardShow;
 import React from 'react';
 import { FaStar, FaDownload } from 'react-icons/fa';
 import { Link } from 'react-router';
@@ -66,7 +36,6 @@ const App1CardShow = ({ app }) => {
           mx-auto
         "
       >
-  
         <div
           className="
             bg-gray-100 
@@ -103,12 +72,10 @@ const App1CardShow = ({ app }) => {
           />
         </div>
 
-
         <h1 className="mt-4 text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl 2xl:text-3xl font-bold text-gray-800 text-center truncate w-full">
           {title}
         </h1>
 
-     
         <div className="mt-3 flex justify-between items-center w-full px-2">
           <div className="flex items-center gap-2 bg-gray-100 px-3 py-1 rounded-md">
             <FaDownload className="text-green-500" />

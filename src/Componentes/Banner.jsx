@@ -62,7 +62,7 @@ const Banner = () => {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 text-sm md:text-base">
             <div className="p-1">
               <h2 className="font-semibold mb-2">Total Downloads</h2>
-              <p className="text-3xl md:text-4xl font-bold mb-1">29.6M</p>
+              <p className="text-3xl md:text-4xl font-bold mb-1">290.6M</p>
               <p>21% more than last month</p>
             </div>
 
