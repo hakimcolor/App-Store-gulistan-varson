@@ -48,7 +48,7 @@ const App1CardShow = ({ app, searchTerm }) => {
           p-4
           w-[350px] sm:w-[280px] md:w-[300px] lg:w-[310px] xl:w-[300px] 2xl:w-[380px]
           min-w-[250px] max-w-[380px]
-          h-[400px] sm:h-[420px] md:h-[440px] lg:h-[460px] xl:h-[480px] 2xl:h-[500px]
+         2xl:h-[458px]
           mx-auto
           cursor-pointer
         "
