@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import { FaGithub } from 'react-icons/fa';
 import Logo from '../assets/logo.png';
 
@@ -41,10 +41,11 @@ const Header = () => {
   return (
     <header className="bg-white shadow-md fixed top-0 left-0 w-full z-50">
       <div className="max-w-7xl mx-auto flex items-center justify-between p-4">
-        <div className="flex items-center gap-2">
+        <Link to='/'><div className="flex items-center gap-2">
           <img src={Logo} alt="Heor.io Logo" className="h-8 w-8" />
           <span className="text-xl font-bold text-blue-600">HERO.IO</span>
-        </div>
+        </div></Link>
+        
 
         <nav className="hidden md:flex justify-between space-x-6">{Links}</nav>
 
