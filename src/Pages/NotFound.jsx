@@ -6,7 +6,6 @@ import { FaHome } from 'react-icons/fa';
 const NotFound = () => {
   return (
     <div className="relative flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500 text-white overflow-hidden">
-  
       <motion.div
         initial={{ scale: 0 }}
         animate={{ scale: [0, 1.2, 1], opacity: [0, 0.6, 0.4] }}
@@ -25,7 +24,6 @@ const NotFound = () => {
         className="absolute w-[600px] h-[600px] rounded-full bg-pink-300/10 blur-3xl"
       ></motion.div>
 
-    
       <motion.h1
         initial={{ y: -100, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
@@ -35,7 +33,6 @@ const NotFound = () => {
         OOPS!! APP NOT FOUND
       </motion.h1>
 
- 
       <motion.p
         initial={{ y: 40, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
@@ -46,7 +43,6 @@ const NotFound = () => {
         currently unavailable.
       </motion.p>
 
-   
       <motion.div
         initial={{ scale: 0 }}
         animate={{ scale: 1 }}
@@ -75,7 +71,6 @@ const NotFound = () => {
         </Link>
       </motion.div>
 
-  
       <div className="absolute inset-0 z-0 overflow-hidden">
         {[...Array(30)].map((_, i) => (
           <motion.span

@@ -41,12 +41,14 @@ const App1fetce = ({ AppData = [] }) => {
         ))}
       </div>
 
-<Link to='/apps'> <div className="flex justify-center mt-10">
-        <button className="px-8 py-4 font-semibold text-white rounded-2xl bg-gradient-to-r from-blue-700  to-blue-400 shadow-lg hover:scale-105 transition transform duration-300 cursor-pointer">
-          Show All
-        </button>
-      </div></Link>
-     
+      <Link to="/apps">
+        {' '}
+        <div className="flex justify-center mt-10">
+          <button className="px-8 py-4 font-semibold text-white rounded-2xl bg-gradient-to-r from-blue-700  to-blue-400 shadow-lg hover:scale-105 transition transform duration-300 cursor-pointer">
+            Show All
+          </button>
+        </div>
+      </Link>
     </div>
   );
 };
