@@ -5,7 +5,7 @@ import App1fetce from './App1fetce';
 
 const Home = () => {
   const AppData = useLoaderData();
-  console.log(AppData);
+  // console.log(AppData);
 
   return (
     <div>
