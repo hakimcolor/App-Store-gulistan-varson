@@ -1,10 +1,9 @@
-
 import React, { useEffect, useState } from 'react';
 import { useLoaderData } from 'react-router';
 import { getApp, removeFromDB } from '../AddDB';
 import INstallDetals from './INstallDetals';
 import NotFound from './NotFound';
-
+import NoInstalledInstallation from './NOtFoundINstalation';
 const Installation = () => {
   const data = useLoaderData();
   const [myApps, setMyApps] = useState([]);
@@ -20,7 +19,6 @@ const Installation = () => {
   const handleUninstall = (id) => {
     removeFromDB(id);
     setMyApps((prevApps) => prevApps.filter((app) => app.id !== id));
-    
   };
 
   const handleSortChange = (e) => {
@@ -33,9 +31,8 @@ const Installation = () => {
     );
   };
 
-
   if (myApps.length === 0) {
-    return <NotFound />;
+    return <NoInstalledInstallation />;
   }
 
   return (
@@ -100,4 +97,3 @@ const Installation = () => {
 };
 
 export default Installation;
-
