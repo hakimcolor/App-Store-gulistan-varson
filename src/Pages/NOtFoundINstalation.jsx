@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const NoInstalledInstallation = () => {
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-purple-500 via-pink-500 to-indigo-500 px-4">
+    <div className="py-10 flex flex-col items-center justify-center bg-gradient-to-r from-purple-500 via-pink-500 to-indigo-500 px-4">
       <div className="relative flex items-center justify-center w-40 h-40 bg-white/20 rounded-full shadow-xl animate-pulse mb-8">
         <FaBoxOpen className="text-white text-6xl" />
         <span className="absolute bottom-[-10px] right-[-10px] w-6 h-6 bg-yellow-400 rounded-full flex items-center justify-center text-xs font-bold text-gray-800 animate-bounce">
