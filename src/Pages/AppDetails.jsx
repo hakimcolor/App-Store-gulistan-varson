@@ -1,4 +1,8 @@
 import React, { useEffect, useState } from 'react';
+import { addToDB, getApp } from '../AddDB';
+import Swal from 'sweetalert2';
+const MySwal = withReactContent(Swal);
+import withReactContent from 'sweetalert2-react-content';
 import { useLoaderData, useParams } from 'react-router';
 import NotFound from './NotFound';
 import { FaDownload, FaStar } from 'react-icons/fa';
@@ -12,7 +16,6 @@ import {
   Tooltip,
   ResponsiveContainer,
 } from 'recharts';
-import { addToDB, getApp } from '../AddDB'; 
 
 const AppDetails = () => {
   const { id } = useParams();
@@ -22,12 +25,11 @@ const AppDetails = () => {
 
   const [isInstalling, setIsInstalling] = useState(false);
 
-
   useEffect(() => {
-    const storedApps = getApp(); 
+    const storedApps = getApp();
     const converted = storedApps.map((i) => parseInt(i));
     if (converted.includes(appid)) {
-      setIsInstalling(true); 
+      setIsInstalling(true);
     }
   }, [appid]);
 
@@ -55,6 +57,12 @@ const AppDetails = () => {
   const handleInstall = (id) => {
     addToDB(id);
     setIsInstalling(true);
+   MySwal.fire({
+     title: 'Installation Done',
+     text: `Your installed app is: ${title}`,
+     icon: 'success',
+   });
+
   };
 
   return (
@@ -93,7 +101,6 @@ const AppDetails = () => {
               </div>
             </div>
 
-          
             <button
               onClick={() => handleInstall(id)}
               disabled={isInstalling}

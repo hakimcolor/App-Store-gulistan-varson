@@ -1,18 +1,17 @@
-
 import React from 'react';
 import { FaStar, FaDownload } from 'react-icons/fa';
-import { Link } from 'react-router-dom'; 
+import { Link } from 'react-router-dom';
+import { toast } from 'react-toastify';
 
 const App1CardShow = ({ app, searchTerm }) => {
   const { downloads, image, ratingAvg, title, id } = app;
-
 
   const getHighlightedText = (text, highlight) => {
     if (!highlight) return text;
     const parts = text.split(new RegExp(`(${highlight})`, 'gi'));
     return parts.map((part, i) =>
       part.toLowerCase() === highlight.toLowerCase() ? (
-        <span key={i} className="">
+        <span key={i} className="bg-yellow-200 text-gray-900 px-1 rounded">
           {part}
         </span>
       ) : (
@@ -21,8 +20,20 @@ const App1CardShow = ({ app, searchTerm }) => {
     );
   };
 
+
+  const handleClick = () => {
+    toast.info(`Opening "${title}" details...`, {
+      position: 'top-right',
+      autoClose: 1500,
+      theme: 'colored',
+      toastStyle: {
+        marginTop: '50px', 
+      },
+    });
+  };
+
   return (
-    <Link to={`/appssss/${id}`}>
+    <Link to={`/appssss/${id}`} onClick={handleClick}>
       <div
         className="
           bg-white 
@@ -39,9 +50,9 @@ const App1CardShow = ({ app, searchTerm }) => {
           min-w-[250px] max-w-[380px]
           h-[400px] sm:h-[420px] md:h-[440px] lg:h-[460px] xl:h-[480px] 2xl:h-[500px]
           mx-auto
+          cursor-pointer
         "
       >
-      
         <div
           className="
             bg-gray-100 
@@ -67,12 +78,10 @@ const App1CardShow = ({ app, searchTerm }) => {
           />
         </div>
 
-    
         <h1 className="mt-4 text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl 2xl:text-3xl font-bold text-gray-800 text-center truncate w-full">
           {getHighlightedText(title, searchTerm)}
         </h1>
 
-     
         <div className="mt-3 flex justify-between items-center w-full px-2">
           <div className="flex items-center gap-2 bg-gray-100 px-3 py-1 rounded-md">
             <FaDownload className="text-green-500" />

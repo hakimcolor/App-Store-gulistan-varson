@@ -2,6 +2,7 @@ import { createBrowserRouter } from 'react-router-dom';
 import { lazy, Suspense } from 'react';
 import Root from '../Pages/Root';
 import Loading from '../Pages/Loding';
+import Error from '../Pages/Error';
 
 const Home = lazy(() => import('../Pages/Home'));
 const Apps = lazy(() => import('../Pages/Apps'));
@@ -12,6 +13,7 @@ export const router = createBrowserRouter([
   {
     path: '/',
     element: <Root />,
+    errorElement: <Error />,
     children: [
       {
         index: true,

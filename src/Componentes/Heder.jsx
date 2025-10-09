@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import { FaGithub } from 'react-icons/fa';
 import Logo from '../assets/logo.png';
 
@@ -21,16 +21,21 @@ const Header = () => {
     { name: 'Installation', path: '/install' },
   ];
 
- 
   const Links = navLinks.map((link) => (
-    <Link
+    <NavLink
       key={link.path}
       to={link.path}
-      onClick={() => setIsOpen(false)} 
-      className="text-gray-700 hover:text-blue-600 transition-colors duration-200"
+      onClick={() => setIsOpen(false)}
+      className={({ isActive }) =>
+        `transition-colors duration-200 ${
+          isActive
+            ? 'text-blue-600 font-semibold'
+            : 'text-gray-700 hover:text-blue-600'
+        }`
+      }
     >
       {link.name}
-    </Link>
+    </NavLink>
   ));
 
   return (
@@ -42,41 +47,30 @@ const Header = () => {
         </div>
 
         <nav className="hidden md:flex justify-between space-x-6">{Links}</nav>
+
         <button
           onClick={openGitHub}
           className="
-    flex 
-    items-center 
-    justify-center 
-    gap-2 
-    bg-gradient-to-r 
-   from-blue-700  to-blue-500 
-    text-white 
-    px-3 
-    sm:px-5 
-    md:px-6 
-    py-1.5 
-    sm:py-2 
-    md:py-2.5 
-    rounded-md 
-    text-xs 
-    sm:text-sm 
-    md:text-base 
-    font-medium 
-    hover:opacity-90 
-    transition-all 
-    duration-200 
-    w-24 
-    sm:w-32 
-    md:w-40
-    cursor-pointer
-  "
+            flex 
+            items-center 
+            justify-center 
+            gap-2 
+            bg-gradient-to-r 
+            from-blue-700 to-blue-500 
+            text-white 
+            px-3 sm:px-5 md:px-6 
+            py-1.5 sm:py-2 md:py-2.5 
+            rounded-md 
+            text-xs sm:text-sm md:text-base 
+            font-medium 
+            hover:opacity-90 
+            transition-all 
+            duration-200 
+            w-24 sm:w-32 md:w-40
+            cursor-pointer
+          "
         >
-          <span>
-            {' '}
-            <FaGithub className=" " />
-          </span>
-
+          <FaGithub />
           <span>Contribute</span>
         </button>
 
