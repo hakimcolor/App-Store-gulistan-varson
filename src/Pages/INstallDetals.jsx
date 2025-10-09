@@ -37,7 +37,7 @@ const InstallDetails = ({ app, onUninstall }) => {
     <div className="flex flex-col sm:flex-row sm:justify-between items-center bg-white shadow-md rounded-lg p-4 sm:p-6 mb-6 hover:shadow-lg transition duration-300 w-full max-w-[1640px] mx-auto">
       <div className="flex flex-col sm:flex-row items-center sm:items-start gap-4 sm:gap-6 text-center sm:text-left">
         <img
-          className="w-20 h-20 sm:w-28 sm:h-28 md:w-32 md:h-32 object-cover rounded-lg border border-gray-200"
+          className="w-20 h-20 sm:w-28 sm:h-28 md:w-32 md:h-32  rounded-lg border border-gray-200 o"
           src={image}
           alt={title}
         />

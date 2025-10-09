@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useLoaderData } from 'react-router';
 import { getApp, removeFromDB } from '../AddDB';
 import INstallDetals from './INstallDetals';
-import NotFound from './NotFound';
+
 import NoInstalledInstallation from './NOtFoundINstalation';
 const Installation = () => {
   const data = useLoaderData();
@@ -26,7 +26,7 @@ const Installation = () => {
     setSortOrder(order);
     setMyApps((prevApps) =>
       [...prevApps].sort((a, b) =>
-        order === 'asc' ? a.size - b.size : b.size - a.size
+        order === 'asc' ? a.downloads - b.downloads : b.downloads - a.downloads
       )
     );
   };
@@ -47,7 +47,7 @@ const Installation = () => {
       </div>
 
       <div>
-        <div className="mt-6 sm:mt-10 flex flex-col sm:flex-row items-center sm:items-center max-w-[1300px] mx-auto justify-center sm:justify-between mb-6 gap-4 p-0 lg:p-10 md:p-10 xl:p-10 2xl:p-0">
+        <div className="mt-6 sm:mt-10 flex flex-col sm:flex-row items-center sm:items-center max-w-[1300px] mx-auto justify-center sm:justify-between mb-6 gap-4 p-0  lg:p-10 md:p-10 xl:p-10 2xl:p-0">
           <p className="text-xl font-medium text-gray-800 text-center sm:text-left">
             Apps Found: <span className="font-bold">{myApps.length}</span>
           </p>
@@ -57,7 +57,7 @@ const Installation = () => {
               htmlFor="sort"
               className="text-gray-700 text-sm sm:text-base font-medium"
             >
-              Sort by Size:
+              Sort by downloads:
             </label>
             <select
               id="sort"
