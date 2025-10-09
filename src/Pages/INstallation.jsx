@@ -31,9 +31,9 @@ const Installation = () => {
     );
   };
 
-  if (myApps.length === 0) {
-    return <NoInstalledInstallation />;
-  }
+  // if (myApps.length === 0) {
+  //   return <NoInstalledInstallation />;
+  // }
 
   return (
     <div className="pt-30">
@@ -82,7 +82,20 @@ const Installation = () => {
           </div>
         </div>
 
-        <div className="space-y-4 p-10 xl:p-0">
+        {myApps.length === 0 ? (
+          <NoInstalledInstallation />
+        ) : (
+          <div className="space-y-4 p-10 xl:p-0">
+            {myApps.map((app) => (
+              <INstallDetals
+                key={app.id}
+                app={app}
+                onUninstall={handleUninstall}
+              />
+            ))}
+          </div>
+        )}
+        {/* <div className="space-y-4 p-10 xl:p-0">
           {myApps.map((app) => (
             <INstallDetals
               key={app.id}
@@ -90,7 +103,7 @@ const Installation = () => {
               onUninstall={handleUninstall}
             />
           ))}
-        </div>
+        </div> */}
       </div>
     </div>
   );
